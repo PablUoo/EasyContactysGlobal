@@ -6,7 +6,7 @@ Gerencie sua agenda de contatos onde você quiser. Use o Contact List! Projeto c
 
 * Ruby 2.3.0 ou Superior
 * PostgreSQL
-* Rails 5
+* Rails 5.2.2
 
 ## Funcionalidades
 
