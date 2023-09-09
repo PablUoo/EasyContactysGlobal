@@ -1,5 +1,6 @@
 class UsersController < ApplicationController
 
+
   before_action :require_logged_in_user, only: [:show, :edit, :update]
 
   def new
