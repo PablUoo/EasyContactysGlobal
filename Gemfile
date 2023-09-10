@@ -1,9 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'rails_12factor', group: :production
+
 # Use Puma as the app server
 
-gem 'rails',                        '~> 5.2.2'
+gem 'rails',                        '~> 5.0.5'
 gem 'pg',                           '~> 0.18'
 gem 'puma', 						'~> 4.3'
 gem 'sass-rails',                   '~> 5.0'
@@ -29,5 +30,4 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-ruby '2.7.0'
+ruby '2.6.8'
