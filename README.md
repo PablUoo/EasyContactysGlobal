@@ -1,5 +1,5 @@
 # EasyContactysGlobal
-<p>Link do projeto  https://contatos-online-893ce66de3c1.herokuapp.com/</p>
+<p>Link do projeto  https://contatos-online.fly.dev/</p>
 ### Instruções do projeto
 
 
