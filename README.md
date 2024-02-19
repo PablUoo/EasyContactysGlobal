@@ -22,12 +22,12 @@
 ### Clone em sua máquina
 
 ```shell
-git clone git@github.com:brunojppb/rails_contact_list.git
+git clone git@github.com:PablUoo/EasyContactysGlobal.git
 ```
 
 ### Instale as dependências
 ```shell
-cd rails_contact_list
+cd EasyContactysGlobal
 bundle install
 ```
 
