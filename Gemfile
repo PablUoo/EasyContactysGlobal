@@ -2,10 +2,10 @@ source 'https://rubygems.org'
 
 # Use Puma as the app server
 
-gem 'rails',                        '~> 5.2.2'
-gem 'pg',                           '~> 0.18'
+gem 'rails',                        '~> 6.1.4.7'
+gem 'pg',                           '~> 1.1'
 gem 'puma', 						'~> 4.3'
-gem 'sass-rails',                   '~> 5.0'
+gem 'sass-rails',                   '~> 5.1'
 gem 'uglifier',                     '>= 1.3.0'
 gem 'coffee-rails',                 '~> 4.2'
 gem 'jquery-rails',                 '4.2.1'
